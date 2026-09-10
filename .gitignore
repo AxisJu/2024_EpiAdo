@@ -1,0 +1,27 @@
+# R History and Environment Files
+.Rhistory
+.Rdata
+.RData
+.Rproj.user/
+.Ruserdata
+
+# RStudio project files
+*.Rproj
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary R cache (keep .rds caches that are part of the repo)
+*.utf8.md
+*.knit.md
+
+# Large data files (never commit raw data)
+*.h5seurat
+*.h5ad
+*.loom
+*.qs
+data/
+sourcedata/
