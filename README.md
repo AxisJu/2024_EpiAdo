@@ -213,5 +213,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 🤝 Acknowledgments
 
 This research was supported by grants from the National Natural Science Foundation of China, the Shanghai Municipal Commission of Health and Family Planning, and the Tianqiao and Chrissy Chen Institute for Neuroscience.
-
-Bioinformatics analysis code was developed with the assistance of **Google Gemini 3.7 Flash** and the **Antigravity** agentic coding system.
