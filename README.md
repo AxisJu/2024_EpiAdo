@@ -16,21 +16,10 @@ This repository contains the complete analytical pipeline for:
 
 > **Song, Kun†, Xiaoshuai Ji†, Sihan Ju†, Zehan Wu, Lingzhao Min, Fangzhou Li, Ming Chen, Shuhao Mei, Liyi Qian, Jieming Li, Yuhao Xu, Shasha Yang, Ziyang Lin, Yijun Huang, Siheng Feng, Xiang Zou\*, Liang Chen\*, and Ying Mao\*.**
 > *"Glutamatergic neuron–associated adenosine deficits define a therapeutically addressable epileptic state."*
-> ***Science Translational Medicine*** (Under Review).
 >
 > †Equal contributions. \*Corresponding authors.
 
 **Affiliations:** Department of Neurosurgery, Huashan Hospital, Fudan University; National Center for Neurological Disorders; State Key Laboratory of Medical Neurobiology and MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China.
-
-```bibtex
-@article{song2024epiadо,
-  title={Glutamatergic neuron–associated adenosine deficits define a therapeutically addressable epileptic state},
-  author={Song, Kun and Ji, Xiaoshuai and Ju, Sihan and Wu, Zehan and Min, Lingzhao and Li, Fangzhou and Chen, Ming and Mei, Shuhao and Qian, Liyi and Li, Jieming and others},
-  journal={Science Translational Medicine},
-  year={2026},
-  note={Under review}
-}
-```
 
 ---
 
